@@ -1,0 +1,44 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="fr.m4104.calculatrice_v_2"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="22"
+8-->C:\Users\medam\Desktop\Dev\Android\tp2_calculatrice\projet_a_completer\M4104_2021_tp2_calculatrice_v_2_etudiant\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->C:\Users\medam\Desktop\Dev\Android\tp2_calculatrice\projet_a_completer\M4104_2021_tp2_calculatrice_v_2_etudiant\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->C:\Users\medam\Desktop\Dev\Android\tp2_calculatrice\projet_a_completer\M4104_2021_tp2_calculatrice_v_2_etudiant\app\src\main\AndroidManifest.xml:5:5-19:19
+12        android:allowBackup="true"
+12-->C:\Users\medam\Desktop\Dev\Android\tp2_calculatrice\projet_a_completer\M4104_2021_tp2_calculatrice_v_2_etudiant\app\src\main\AndroidManifest.xml:6:9-35
+13        android:debuggable="true"
+14        android:icon="@mipmap/ic_launcher"
+14-->C:\Users\medam\Desktop\Dev\Android\tp2_calculatrice\projet_a_completer\M4104_2021_tp2_calculatrice_v_2_etudiant\app\src\main\AndroidManifest.xml:7:9-43
+15        android:label="@string/app_name"
+15-->C:\Users\medam\Desktop\Dev\Android\tp2_calculatrice\projet_a_completer\M4104_2021_tp2_calculatrice_v_2_etudiant\app\src\main\AndroidManifest.xml:8:9-41
+16        android:supportsRtl="true"
+16-->C:\Users\medam\Desktop\Dev\Android\tp2_calculatrice\projet_a_completer\M4104_2021_tp2_calculatrice_v_2_etudiant\app\src\main\AndroidManifest.xml:9:9-35
+17        android:testOnly="true" >
+18        <activity android:name="fr.m4104.calculatrice_v_2.MainActivity" >
+18-->C:\Users\medam\Desktop\Dev\Android\tp2_calculatrice\projet_a_completer\M4104_2021_tp2_calculatrice_v_2_etudiant\app\src\main\AndroidManifest.xml:10:9-16:20
+18-->C:\Users\medam\Desktop\Dev\Android\tp2_calculatrice\projet_a_completer\M4104_2021_tp2_calculatrice_v_2_etudiant\app\src\main\AndroidManifest.xml:10:19-47
+19            <intent-filter>
+19-->C:\Users\medam\Desktop\Dev\Android\tp2_calculatrice\projet_a_completer\M4104_2021_tp2_calculatrice_v_2_etudiant\app\src\main\AndroidManifest.xml:11:13-15:29
+20                <action android:name="android.intent.action.MAIN" />
+20-->C:\Users\medam\Desktop\Dev\Android\tp2_calculatrice\projet_a_completer\M4104_2021_tp2_calculatrice_v_2_etudiant\app\src\main\AndroidManifest.xml:12:17-69
+20-->C:\Users\medam\Desktop\Dev\Android\tp2_calculatrice\projet_a_completer\M4104_2021_tp2_calculatrice_v_2_etudiant\app\src\main\AndroidManifest.xml:12:25-66
+21
+22                <category android:name="android.intent.category.LAUNCHER" />
+22-->C:\Users\medam\Desktop\Dev\Android\tp2_calculatrice\projet_a_completer\M4104_2021_tp2_calculatrice_v_2_etudiant\app\src\main\AndroidManifest.xml:14:17-77
+22-->C:\Users\medam\Desktop\Dev\Android\tp2_calculatrice\projet_a_completer\M4104_2021_tp2_calculatrice_v_2_etudiant\app\src\main\AndroidManifest.xml:14:27-74
+23            </intent-filter>
+24        </activity>
+25        <activity android:name="fr.m4104.calculatrice_v_2.Calcul" />
+25-->C:\Users\medam\Desktop\Dev\Android\tp2_calculatrice\projet_a_completer\M4104_2021_tp2_calculatrice_v_2_etudiant\app\src\main\AndroidManifest.xml:18:9-53
+25-->C:\Users\medam\Desktop\Dev\Android\tp2_calculatrice\projet_a_completer\M4104_2021_tp2_calculatrice_v_2_etudiant\app\src\main\AndroidManifest.xml:18:19-41
+26    </application>
+27
+28</manifest>

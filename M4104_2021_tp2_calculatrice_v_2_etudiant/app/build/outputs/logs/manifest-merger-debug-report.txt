@@ -1,0 +1,70 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\medam\Desktop\Dev\Android\tp2_calculatrice\projet_a_completer\M4104_2021_tp2_calculatrice_v_2_etudiant\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\medam\Desktop\Dev\Android\tp2_calculatrice\projet_a_completer\M4104_2021_tp2_calculatrice_v_2_etudiant\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\medam\Desktop\Dev\Android\tp2_calculatrice\projet_a_completer\M4104_2021_tp2_calculatrice_v_2_etudiant\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\medam\Desktop\Dev\Android\tp2_calculatrice\projet_a_completer\M4104_2021_tp2_calculatrice_v_2_etudiant\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\medam\.gradle\caches\transforms-2\files-2.1\213ad6fce5ea38e5799c707ff664b050\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+INJECTED from C:\Users\medam\Desktop\Dev\Android\tp2_calculatrice\projet_a_completer\M4104_2021_tp2_calculatrice_v_2_etudiant\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\medam\Desktop\Dev\Android\tp2_calculatrice\projet_a_completer\M4104_2021_tp2_calculatrice_v_2_etudiant\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\medam\Desktop\Dev\Android\tp2_calculatrice\projet_a_completer\M4104_2021_tp2_calculatrice_v_2_etudiant\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\Users\medam\Desktop\Dev\Android\tp2_calculatrice\projet_a_completer\M4104_2021_tp2_calculatrice_v_2_etudiant\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from C:\Users\medam\Desktop\Dev\Android\tp2_calculatrice\projet_a_completer\M4104_2021_tp2_calculatrice_v_2_etudiant\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\medam\Desktop\Dev\Android\tp2_calculatrice\projet_a_completer\M4104_2021_tp2_calculatrice_v_2_etudiant\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\medam\Desktop\Dev\Android\tp2_calculatrice\projet_a_completer\M4104_2021_tp2_calculatrice_v_2_etudiant\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\medam\Desktop\Dev\Android\tp2_calculatrice\projet_a_completer\M4104_2021_tp2_calculatrice_v_2_etudiant\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\medam\Desktop\Dev\Android\tp2_calculatrice\projet_a_completer\M4104_2021_tp2_calculatrice_v_2_etudiant\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\medam\Desktop\Dev\Android\tp2_calculatrice\projet_a_completer\M4104_2021_tp2_calculatrice_v_2_etudiant\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\medam\Desktop\Dev\Android\tp2_calculatrice\projet_a_completer\M4104_2021_tp2_calculatrice_v_2_etudiant\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\medam\Desktop\Dev\Android\tp2_calculatrice\projet_a_completer\M4104_2021_tp2_calculatrice_v_2_etudiant\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\medam\Desktop\Dev\Android\tp2_calculatrice\projet_a_completer\M4104_2021_tp2_calculatrice_v_2_etudiant\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\medam\Desktop\Dev\Android\tp2_calculatrice\projet_a_completer\M4104_2021_tp2_calculatrice_v_2_etudiant\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\medam\.gradle\caches\transforms-2\files-2.1\213ad6fce5ea38e5799c707ff664b050\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\medam\.gradle\caches\transforms-2\files-2.1\213ad6fce5ea38e5799c707ff664b050\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\medam\Desktop\Dev\Android\tp2_calculatrice\projet_a_completer\M4104_2021_tp2_calculatrice_v_2_etudiant\app\src\main\AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from C:\Users\medam\Desktop\Dev\Android\tp2_calculatrice\projet_a_completer\M4104_2021_tp2_calculatrice_v_2_etudiant\app\src\main\AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from C:\Users\medam\Desktop\Dev\Android\tp2_calculatrice\projet_a_completer\M4104_2021_tp2_calculatrice_v_2_etudiant\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\medam\Desktop\Dev\Android\tp2_calculatrice\projet_a_completer\M4104_2021_tp2_calculatrice_v_2_etudiant\app\src\main\AndroidManifest.xml:6:9-35
+activity#fr.m4104.calculatrice_v_2.MainActivity
+ADDED from C:\Users\medam\Desktop\Dev\Android\tp2_calculatrice\projet_a_completer\M4104_2021_tp2_calculatrice_v_2_etudiant\app\src\main\AndroidManifest.xml:10:9-16:20
+	android:name
+		ADDED from C:\Users\medam\Desktop\Dev\Android\tp2_calculatrice\projet_a_completer\M4104_2021_tp2_calculatrice_v_2_etudiant\app\src\main\AndroidManifest.xml:10:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\medam\Desktop\Dev\Android\tp2_calculatrice\projet_a_completer\M4104_2021_tp2_calculatrice_v_2_etudiant\app\src\main\AndroidManifest.xml:11:13-15:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\medam\Desktop\Dev\Android\tp2_calculatrice\projet_a_completer\M4104_2021_tp2_calculatrice_v_2_etudiant\app\src\main\AndroidManifest.xml:12:17-69
+	android:name
+		ADDED from C:\Users\medam\Desktop\Dev\Android\tp2_calculatrice\projet_a_completer\M4104_2021_tp2_calculatrice_v_2_etudiant\app\src\main\AndroidManifest.xml:12:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\medam\Desktop\Dev\Android\tp2_calculatrice\projet_a_completer\M4104_2021_tp2_calculatrice_v_2_etudiant\app\src\main\AndroidManifest.xml:14:17-77
+	android:name
+		ADDED from C:\Users\medam\Desktop\Dev\Android\tp2_calculatrice\projet_a_completer\M4104_2021_tp2_calculatrice_v_2_etudiant\app\src\main\AndroidManifest.xml:14:27-74
+activity#fr.m4104.calculatrice_v_2.Calcul
+ADDED from C:\Users\medam\Desktop\Dev\Android\tp2_calculatrice\projet_a_completer\M4104_2021_tp2_calculatrice_v_2_etudiant\app\src\main\AndroidManifest.xml:18:9-53
+	android:name
+		ADDED from C:\Users\medam\Desktop\Dev\Android\tp2_calculatrice\projet_a_completer\M4104_2021_tp2_calculatrice_v_2_etudiant\app\src\main\AndroidManifest.xml:18:19-41
+uses-sdk
+INJECTED from C:\Users\medam\Desktop\Dev\Android\tp2_calculatrice\projet_a_completer\M4104_2021_tp2_calculatrice_v_2_etudiant\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\medam\Desktop\Dev\Android\tp2_calculatrice\projet_a_completer\M4104_2021_tp2_calculatrice_v_2_etudiant\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\medam\Desktop\Dev\Android\tp2_calculatrice\projet_a_completer\M4104_2021_tp2_calculatrice_v_2_etudiant\app\src\main\AndroidManifest.xml
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\medam\.gradle\caches\transforms-2\files-2.1\213ad6fce5ea38e5799c707ff664b050\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\medam\.gradle\caches\transforms-2\files-2.1\213ad6fce5ea38e5799c707ff664b050\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+INJECTED from C:\Users\medam\Desktop\Dev\Android\tp2_calculatrice\projet_a_completer\M4104_2021_tp2_calculatrice_v_2_etudiant\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\medam\Desktop\Dev\Android\tp2_calculatrice\projet_a_completer\M4104_2021_tp2_calculatrice_v_2_etudiant\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\medam\Desktop\Dev\Android\tp2_calculatrice\projet_a_completer\M4104_2021_tp2_calculatrice_v_2_etudiant\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\medam\Desktop\Dev\Android\tp2_calculatrice\projet_a_completer\M4104_2021_tp2_calculatrice_v_2_etudiant\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\medam\Desktop\Dev\Android\tp2_calculatrice\projet_a_completer\M4104_2021_tp2_calculatrice_v_2_etudiant\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\medam\Desktop\Dev\Android\tp2_calculatrice\projet_a_completer\M4104_2021_tp2_calculatrice_v_2_etudiant\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\medam\Desktop\Dev\Android\tp2_calculatrice\projet_a_completer\M4104_2021_tp2_calculatrice_v_2_etudiant\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\medam\Desktop\Dev\Android\tp2_calculatrice\projet_a_completer\M4104_2021_tp2_calculatrice_v_2_etudiant\app\src\main\AndroidManifest.xml

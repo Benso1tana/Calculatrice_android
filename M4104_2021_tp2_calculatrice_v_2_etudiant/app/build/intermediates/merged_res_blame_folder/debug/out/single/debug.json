@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\medam\\Desktop\\Dev\\Android\\tp2_calculatrice\\projet_a_completer\\M4104_2021_tp2_calculatrice_v_2_etudiant\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\medam\\Desktop\\Dev\\Android\\tp2_calculatrice\\projet_a_completer\\M4104_2021_tp2_calculatrice_v_2_etudiant\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\medam\\Desktop\\Dev\\Android\\tp2_calculatrice\\projet_a_completer\\M4104_2021_tp2_calculatrice_v_2_etudiant\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_calcul_landscape.xml.flat",
+        "source": "C:\\Users\\medam\\Desktop\\Dev\\Android\\tp2_calculatrice\\projet_a_completer\\M4104_2021_tp2_calculatrice_v_2_etudiant\\app\\src\\main\\res\\layout\\layout_calcul_landscape.xml"
+    },
+    {
+        "merged": "C:\\Users\\medam\\Desktop\\Dev\\Android\\tp2_calculatrice\\projet_a_completer\\M4104_2021_tp2_calculatrice_v_2_etudiant\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\medam\\Desktop\\Dev\\Android\\tp2_calculatrice\\projet_a_completer\\M4104_2021_tp2_calculatrice_v_2_etudiant\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\medam\\Desktop\\Dev\\Android\\tp2_calculatrice\\projet_a_completer\\M4104_2021_tp2_calculatrice_v_2_etudiant\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\medam\\Desktop\\Dev\\Android\\tp2_calculatrice\\projet_a_completer\\M4104_2021_tp2_calculatrice_v_2_etudiant\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\medam\\Desktop\\Dev\\Android\\tp2_calculatrice\\projet_a_completer\\M4104_2021_tp2_calculatrice_v_2_etudiant\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\medam\\Desktop\\Dev\\Android\\tp2_calculatrice\\projet_a_completer\\M4104_2021_tp2_calculatrice_v_2_etudiant\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\medam\\Desktop\\Dev\\Android\\tp2_calculatrice\\projet_a_completer\\M4104_2021_tp2_calculatrice_v_2_etudiant\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_calcul.xml.flat",
+        "source": "C:\\Users\\medam\\Desktop\\Dev\\Android\\tp2_calculatrice\\projet_a_completer\\M4104_2021_tp2_calculatrice_v_2_etudiant\\app\\src\\main\\res\\layout\\layout_calcul.xml"
+    },
+    {
+        "merged": "C:\\Users\\medam\\Desktop\\Dev\\Android\\tp2_calculatrice\\projet_a_completer\\M4104_2021_tp2_calculatrice_v_2_etudiant\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\medam\\Desktop\\Dev\\Android\\tp2_calculatrice\\projet_a_completer\\M4104_2021_tp2_calculatrice_v_2_etudiant\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\medam\\Desktop\\Dev\\Android\\tp2_calculatrice\\projet_a_completer\\M4104_2021_tp2_calculatrice_v_2_etudiant\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\medam\\Desktop\\Dev\\Android\\tp2_calculatrice\\projet_a_completer\\M4104_2021_tp2_calculatrice_v_2_etudiant\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    }
+]
